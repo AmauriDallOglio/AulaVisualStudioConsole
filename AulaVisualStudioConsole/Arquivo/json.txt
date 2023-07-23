@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Cebolinha",
+    "Preco": 100.0,
+    "DataVenda": "2023-02-14T08:53:04.5262308-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Produto": "Salsinha",
+    "Preco": 50.00,
+    "DataVenda": "2023-02-14T08:53:04.5386519-03:00",
+    "Desconto": null
+  }
+]
